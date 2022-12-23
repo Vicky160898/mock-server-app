@@ -10,7 +10,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 30564
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 17316
       },
       {
         "id": 3,
@@ -34,7 +34,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 9888
       },
       {
         "id": 4,
@@ -46,7 +46,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 2268
       },
       {
         "id": 5,
@@ -58,7 +58,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 10188
       },
       {
         "id": 6,
@@ -70,7 +70,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 18708
       },
       {
         "id": 7,
@@ -82,7 +82,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 27432
       },
       {
         "id": 8,
@@ -94,7 +94,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 15228
       },
       {
         "id": 9,
@@ -106,7 +106,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 10188
       },
       {
         "id": 10,
@@ -118,7 +118,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 18708
       },
       {
         "id": 11,
@@ -130,7 +130,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 21156
       },
       {
         "id": 12,
@@ -142,7 +142,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 37176
       },
       {
         "id": 13,
@@ -154,7 +154,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 6588
       },
       {
         "id": 14,
@@ -166,7 +166,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 5112
       },
       {
         "id": 15,
@@ -178,7 +178,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 18828
       },
       {
         "id": 16,
@@ -190,7 +190,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 10320
       },
       {
         "id": 30,
@@ -202,7 +202,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 3828
       },
       {
         "id": 31,
@@ -214,7 +214,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" :12660
       },
       {
         "id": 32,
@@ -226,7 +226,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 12660
       },
       {
         "id": 33,
@@ -238,7 +238,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 21024
       },
       {
         "id": 34,
@@ -250,7 +250,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 5976
       },
       {
         "id": 35,
@@ -262,7 +262,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 20856
       },
       {
         "id": 36,
@@ -274,7 +274,7 @@
         "stock": "",
         "available": "",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 3936
       },
       {
         "id": 37,
@@ -457,7 +457,7 @@
         "available": "",
         "category": "Televisions",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 10068
       },
       {
         "id": 64,
@@ -470,7 +470,7 @@
         "available": "",
         "category": "Televisions",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 15228
       },
       {
         "id": 65,
@@ -483,7 +483,7 @@
         "available": "",
         "category": "Televisions",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 15228
       },
       {
         "id": 66,
@@ -496,7 +496,7 @@
         "available": "",
         "category": "Televisions",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 6828
       },
       {
         "id": 67,
@@ -509,7 +509,7 @@
         "available": "",
         "category": "Water & Air Purifiers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 5340
       },
       {
         "id": 68,
@@ -522,7 +522,7 @@
         "available": "",
         "category": "Dishwashers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 16908
       },
       {
         "id": 69,
@@ -535,7 +535,7 @@
         "available": "It will be available soon",
         "category": "Refrigerators & Freezers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 8628
       },
       {
         "id": 70,
@@ -548,7 +548,7 @@
         "available": "It will be available soon",
         "category": "Refrigerators & Freezers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" :14268
       },
       {
         "id": 71,
@@ -561,7 +561,7 @@
         "available": "It will be available soon",
         "category": "Air Coolers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 6828
       },
       {
         "id": 72,
@@ -574,7 +574,7 @@
         "available": "It will be available soon",
         "category": "Air Coolers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 4548
       },
       {
         "id": 73,
@@ -587,7 +587,7 @@
         "available": "It will be available soon",
         "category": "Air Coolers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 3588
       },
       {
         "id": 74,
@@ -600,7 +600,7 @@
         "available": "It will be available soon",
         "category": "Air Conditioners",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 44388
       },
       {
         "id": 75,
@@ -613,7 +613,7 @@
         "available": "It will be available soon",
         "category": "Washing Machines",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 9228
       },
       {
         "id": 76,
@@ -626,7 +626,7 @@
         "available": "It will be available soon",
         "category": "Washing Machines",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 5748
       },
       {
         "id": 77,
@@ -639,7 +639,7 @@
         "available": "It will be available soon",
         "category": "Washing Machines",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 14268
       },
       {
         "id": 78,
@@ -652,7 +652,7 @@
         "available": "It will be available soon",
         "category": "Air Coolers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 11148
       },
       {
         "id": 79,
@@ -732,7 +732,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 11388
       },
       {
         "id": 85,
@@ -745,7 +745,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 23148
       },
       {
         "id": 86,
@@ -758,7 +758,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 55716
       },
       {
         "id": 87,
@@ -771,7 +771,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 40716
       },
       {
         "id": 88,
@@ -784,7 +784,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 45000
       },
       {
         "id": 89,
@@ -797,7 +797,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 136272
       },
       {
         "id": 90,
@@ -810,7 +810,7 @@
         "available": "",
         "category": "Laptops",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 93216
       },
       {
         "id": 91,
@@ -1109,149 +1109,6 @@
         "category": "Smartphones",
         "qty": 1,
         "deposit" : 500
-      },
-      {
-        "id": 114,
-        "img": "https://p.rmjo.in/productSquare/cji6uh7h-500x500.jpg",
-        "title": "Galaxy A50s (Prism Crush White)",
-        "price": 699,
-        "time": "",
-        "Delivery": "",
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Smartphones",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 115,
-        "img": "https://p.rmjo.in/productSquare/y7bmqk1a-500x500.jpg",
-        "title": "Galaxy S10+ (White)",
-        "price": 2139,
-        "time": "",
-        "Delivery": "",
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Smartphones",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 116,
-        "img": "https://p.rmjo.in/productSquare/40nn18do-500x500.jpg",
-        "title": "Oppo Reno 2 Z (Luminous Black)",
-        "price": 859,
-        "time": "",
-        "Delivery": "",
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Smartphones",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 117,
-        "img": "https://p.rmjo.in/productSquare/bsoatj8n-500x500.jpg",
-        "title": "Redmi Note 6 Pro (Red)",
-        "price": 499,
-        "time": "",
-        "Delivery": "",
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Smartphones",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 118,
-        "img": "https://p.rmjo.in/productSquare/t1yb222s-500x500.jpg",
-        "title": "Oppo F11 (Fluorite Purple)",
-        "price": 519,
-        "time": "",
-        "Delivery": "",
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Smartphones",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 119,
-        "img": "https://p.rmjo.in/productSquare/6zyn96ba-500x500.jpg",
-        "title": "Apple iPhone 8 (Silver)",
-        "price": 1819,
-        "time": "",
-        "Delivery": "",
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Smartphones",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 256,
-        "img": "https://p.rmjo.in/productSquare/4aavxjxz-500x500.jpg",
-        "title": "Playstation 5 + FIFA 21 - Powered by MF",
-        "price": 1819,
-        "time": "",
-        "Delivery": "",
-        "stock": "",
-        "available": "",
-        "category": "Gaming Consoles",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 257,
-        "img": "https://p.rmjo.in/productSquare/gy9k36lv-500x500.jpg",
-        "title": "Xbox One 2 Games - Powered by MF",
-        "price": 2005,
-        "time": "",
-        "Delivery": "",
-        "stock": "",
-        "available": "",
-        "category": "Gaming Consoles",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 258,
-        "img": "https://p.rmjo.in/productSquare/3efacc13-500x500.jpg",
-        "title": "Playstation 4 + FIFA 21 - Powered by MF",
-        "price": 4000,
-        "time": "",
-        "Delivery": "",
-        "stock": "",
-        "available": "",
-        "category": "Gaming Consoles",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 259,
-        "img": "https://p.rmjo.in/productSquare/nbjgi93s-500x500.jpg",
-        "title": "Playstation 4 + 3 Games - Powered by MF",
-        "price": 5001,
-        "time": "",
-        "Delivery": "",
-        "stock": "",
-        "available": "",
-        "category": "Gaming Consoles",
-        "qty": 1,
-        "deposit" : 500
-      },
-      {
-        "id": 260,
-        "img": "https://p.rmjo.in/productSquare/4aavxjxz-500x500.jpg",
-        "title": "Playstation 5 + 2 Games - Powered by MF",
-        "price": 10001,
-        "time": "",
-        "Delivery": "",
-        "stock": "",
-        "available": "",
-        "category": "Gaming Consoles",
-        "qty": 1,
-        "deposit" : 500
       }
     ],
     "Fitness": [
@@ -1266,7 +1123,7 @@
         "available": "",
         "category": "Cross Trainers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 14268
       },
       {
         "id": 121,
@@ -1279,7 +1136,7 @@
         "available": "",
         "category": "Treadmills",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 25188
       },
       {
         "id": 122,
@@ -1292,7 +1149,7 @@
         "available": "",
         "category": "Treadmills",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 28308
       },
       {
         "id": 123,
@@ -1305,7 +1162,7 @@
         "available": "",
         "category": "Treadmills",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 28308
       },
       {
         "id": 124,
@@ -1318,7 +1175,7 @@
         "available": "",
         "category": "Massagers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 16068
       },
       {
         "id": 125,
@@ -1331,7 +1188,7 @@
         "available": "",
         "category": "Massagers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 11148
       },
       {
         "id": 126,
@@ -1344,7 +1201,7 @@
         "available": "",
         "category": "Cross Trainers",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 17988
       },
       {
         "id": 127,
@@ -1357,7 +1214,7 @@
         "available": "It will be available soon",
         "category": "Treadmills",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 25428
       },
       {
         "id": 128,
@@ -1370,7 +1227,7 @@
         "available": "It will be available soon",
         "category": "Exercise Bikes",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 4908
       },
       {
         "id": 129,
@@ -1383,7 +1240,7 @@
         "available": "It will be available soon",
         "category": "Exercise Bikes",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 7428
       },
       {
         "id": 130,
@@ -1396,7 +1253,7 @@
         "available": "It will be available soon",
         "category": "Treadmills",
         "qty": 1,
-        "deposit" : 500
+        "deposit" : 25908
       },
       {
         "id": 131,
