@@ -8,7 +8,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 2,
@@ -18,7 +19,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 3,
@@ -28,7 +30,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 4,
@@ -38,7 +41,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 5,
@@ -48,7 +52,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 6,
@@ -58,7 +63,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 7,
@@ -68,7 +74,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 8,
@@ -78,7 +85,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 9,
@@ -88,7 +96,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 10,
@@ -98,7 +107,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 11,
@@ -108,7 +118,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 12,
@@ -118,7 +129,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 13,
@@ -128,7 +140,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 14,
@@ -138,7 +151,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 15,
@@ -148,7 +162,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 16,
@@ -158,7 +173,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 17,
@@ -168,7 +184,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 18,
@@ -178,7 +195,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 19,
@@ -188,7 +206,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 20,
@@ -198,7 +217,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 21,
@@ -208,7 +228,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 22,
@@ -218,7 +239,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 23,
@@ -228,7 +250,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 24,
@@ -238,7 +261,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 25,
@@ -248,7 +272,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 26,
@@ -258,7 +283,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 27,
@@ -268,7 +294,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 28,
@@ -278,7 +305,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 29,
@@ -288,7 +316,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 30,
@@ -298,7 +327,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 31,
@@ -308,7 +338,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 32,
@@ -318,7 +349,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 33,
@@ -328,7 +360,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 34,
@@ -338,7 +371,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 35,
@@ -348,7 +382,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 36,
@@ -358,7 +393,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 37,
@@ -368,7 +404,8 @@
         "cat-item--desc": "mo",
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
-        "available": ""
+        "available": "",
+        "qty": 1
       },
       {
         "id": 38,
@@ -378,7 +415,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 39,
@@ -388,7 +426,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 40,
@@ -398,7 +437,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 41,
@@ -408,7 +448,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 42,
@@ -418,7 +459,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 43,
@@ -428,7 +470,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 44,
@@ -438,7 +481,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 45,
@@ -448,7 +492,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 46,
@@ -458,7 +503,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 47,
@@ -468,7 +514,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 48,
@@ -478,7 +525,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 49,
@@ -488,7 +536,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 50,
@@ -498,7 +547,8 @@
         "cat-item--desc": "See package details",
         "icons": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       }
     ],
     "Appliances": [
@@ -511,7 +561,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Microwaves & induction"
+        "category": "Microwaves & induction",
+        "qty": 1
       },
       {
         "id": 52,
@@ -522,7 +573,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 53,
@@ -533,7 +585,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 54,
@@ -544,7 +597,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 55,
@@ -555,7 +609,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 56,
@@ -566,7 +621,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 57,
@@ -577,7 +633,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Air Conditioners"
+        "category": "Air Conditioners",
+        "qty": 1
       },
       {
         "id": 58,
@@ -588,7 +645,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Air Conditioners"
+        "category": "Air Conditioners",
+        "qty": 1
       },
       {
         "id": 59,
@@ -599,7 +657,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Air Conditioners"
+        "category": "Air Conditioners",
+        "qty": 1
       },
       {
         "id": 60,
@@ -610,7 +669,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Water & Air Purifiers"
+        "category": "Water & Air Purifiers",
+        "qty": 1
       },
       {
         "id": 61,
@@ -621,7 +681,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Microwaves & induction"
+        "category": "Microwaves & induction",
+        "qty": 1
       },
       {
         "id": 62,
@@ -632,7 +693,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 63,
@@ -643,7 +705,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 64,
@@ -654,7 +717,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 65,
@@ -665,7 +729,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 66,
@@ -676,7 +741,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 67,
@@ -687,7 +753,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Water & Air Purifiers"
+        "category": "Water & Air Purifiers",
+        "qty": 1
       },
       {
         "id": 68,
@@ -698,7 +765,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Dishwashers"
+        "category": "Dishwashers",
+        "qty": 1
       },
       {
         "id": 69,
@@ -709,7 +777,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 70,
@@ -720,7 +789,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Refrigerators & Freezers"
+        "category": "Refrigerators & Freezers",
+        "qty": 1
       },
       {
         "id": 71,
@@ -731,7 +801,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Air Coolers"
+        "category": "Air Coolers",
+        "qty": 1
       },
       {
         "id": 72,
@@ -742,7 +813,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Air Coolers"
+        "category": "Air Coolers",
+        "qty": 1
       },
       {
         "id": 73,
@@ -753,7 +825,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Air Coolers"
+        "category": "Air Coolers",
+        "qty": 1
       },
       {
         "id": 74,
@@ -764,7 +837,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Air Conditioners"
+        "category": "Air Conditioners",
+        "qty": 1
       },
       {
         "id": 75,
@@ -775,7 +849,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Washing Machines"
+        "category": "Washing Machines",
+        "qty": 1
       },
       {
         "id": 76,
@@ -786,7 +861,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Washing Machines"
+        "category": "Washing Machines",
+        "qty": 1
       },
       {
         "id": 77,
@@ -797,7 +873,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Washing Machines"
+        "category": "Washing Machines",
+        "qty": 1
       },
       {
         "id": 78,
@@ -808,7 +885,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Air Coolers"
+        "category": "Air Coolers",
+        "qty": 1
       },
       {
         "id": 79,
@@ -819,7 +897,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Microwaves & induction"
+        "category": "Microwaves & induction",
+        "qty": 1
       },
       {
         "id": 80,
@@ -830,7 +909,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 81,
@@ -841,7 +921,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Televisions"
+        "category": "Televisions",
+        "qty": 1
       },
       {
         "id": 82,
@@ -852,7 +933,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Water & Air Purifiers"
+        "category": "Water & Air Purifiers",
+        "qty": 1
       },
       {
         "id": 83,
@@ -863,7 +945,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Water & Air Purifiers"
+        "category": "Water & Air Purifiers",
+        "qty": 1
       }
     ],
     "Electronics": [
@@ -876,7 +959,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 85,
@@ -887,7 +971,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 86,
@@ -898,7 +983,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 87,
@@ -909,7 +995,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 88,
@@ -920,7 +1007,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 89,
@@ -931,7 +1019,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 90,
@@ -942,7 +1031,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 91,
@@ -953,7 +1043,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 92,
@@ -964,7 +1055,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 93,
@@ -975,7 +1067,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Smart Devices"
+        "category": "Smart Devices",
+        "qty": 1
       },
       {
         "id": 94,
@@ -986,7 +1079,8 @@
         "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Tablets"
+        "category": "Tablets",
+        "qty": 1
       },
       {
         "id": 95,
@@ -997,7 +1091,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Laptops"
+        "category": "Laptops",
+        "qty": 1
       },
       {
         "id": 96,
@@ -1008,7 +1103,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 97,
@@ -1019,7 +1115,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 98,
@@ -1029,7 +1126,8 @@
         "time": "",
         "Delivery": "",
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 99,
@@ -1040,7 +1138,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 100,
@@ -1051,7 +1150,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 101,
@@ -1062,7 +1162,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 102,
@@ -1073,7 +1174,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 103,
@@ -1084,7 +1186,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 104,
@@ -1095,7 +1198,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 105,
@@ -1106,7 +1210,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 106,
@@ -1117,7 +1222,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 107,
@@ -1128,7 +1234,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 108,
@@ -1139,7 +1246,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 109,
@@ -1150,7 +1258,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 110,
@@ -1161,7 +1270,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 111,
@@ -1172,7 +1282,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 112,
@@ -1183,7 +1294,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 113,
@@ -1194,7 +1306,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 114,
@@ -1205,7 +1318,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 115,
@@ -1216,7 +1330,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 116,
@@ -1227,7 +1342,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 117,
@@ -1238,7 +1354,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 118,
@@ -1249,7 +1366,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 119,
@@ -1260,7 +1378,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Smartphones"
+        "category": "Smartphones",
+        "qty": 1
       },
       {
         "id": 256,
@@ -1271,7 +1390,8 @@
         "Delivery": "",
         "stock": "",
         "available": "",
-        "category": "Gaming Consoles"
+        "category": "Gaming Consoles",
+        "qty": 1
       },
       {
         "id": 257,
@@ -1282,7 +1402,8 @@
         "Delivery": "",
         "stock": "",
         "available": "",
-        "category": "Gaming Consoles"
+        "category": "Gaming Consoles",
+        "qty": 1
       },
       {
         "id": 258,
@@ -1293,7 +1414,8 @@
         "Delivery": "",
         "stock": "",
         "available": "",
-        "category": "Gaming Consoles"
+        "category": "Gaming Consoles",
+        "qty": 1
       },
       {
         "id": 259,
@@ -1304,7 +1426,8 @@
         "Delivery": "",
         "stock": "",
         "available": "",
-        "category": "Gaming Consoles"
+        "category": "Gaming Consoles",
+        "qty": 1
       },
       {
         "id": 260,
@@ -1315,7 +1438,8 @@
         "Delivery": "",
         "stock": "",
         "available": "",
-        "category": "Gaming Consoles"
+        "category": "Gaming Consoles",
+        "qty": 1
       }
     ],
     "Fitness": [
@@ -1328,7 +1452,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Cross Trainers"
+        "category": "Cross Trainers",
+        "qty": 1
       },
       {
         "id": 121,
@@ -1339,7 +1464,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Treadmills"
+        "category": "Treadmills",
+        "qty": 1
       },
       {
         "id": 122,
@@ -1350,7 +1476,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Treadmills"
+        "category": "Treadmills",
+        "qty": 1
       },
       {
         "id": 123,
@@ -1361,7 +1488,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Treadmills"
+        "category": "Treadmills",
+        "qty": 1
       },
       {
         "id": 124,
@@ -1372,7 +1500,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Massagers"
+        "category": "Massagers",
+        "qty": 1
       },
       {
         "id": 125,
@@ -1383,7 +1512,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Massagers"
+        "category": "Massagers",
+        "qty": 1
       },
       {
         "id": 126,
@@ -1394,7 +1524,8 @@
         "Fast-Delivery src": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
         "stock": "",
         "available": "",
-        "category": "Cross Trainers"
+        "category": "Cross Trainers",
+        "qty": 1
       },
       {
         "id": 127,
@@ -1405,7 +1536,8 @@
         "Fast-Delivery src": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Treadmills"
+        "category": "Treadmills",
+        "qty": 1
       },
       {
         "id": 128,
@@ -1416,7 +1548,8 @@
         "Fast-Delivery src": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Exercise Bikes"
+        "category": "Exercise Bikes",
+        "qty": 1
       },
       {
         "id": 129,
@@ -1427,7 +1560,8 @@
         "Fast-Delivery src": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Exercise Bikes"
+        "category": "Exercise Bikes",
+        "qty": 1
       },
       {
         "id": 130,
@@ -1438,7 +1572,8 @@
         "Fast-Delivery src": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Treadmills"
+        "category": "Treadmills",
+        "qty": 1
       },
       {
         "id": 131,
@@ -1449,7 +1584,8 @@
         "Fast-Delivery src": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Treadmills"
+        "category": "Treadmills",
+        "qty": 1
       },
       {
         "id": 132,
@@ -1460,7 +1596,8 @@
         "Fast-Delivery src": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Cross Trainers"
+        "category": "Cross Trainers",
+        "qty": 1
       }
     ],
     "Furniture": [
@@ -1472,7 +1609,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 134,
@@ -1482,7 +1620,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 135,
@@ -1492,7 +1631,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 136,
@@ -1502,7 +1642,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 137,
@@ -1512,7 +1653,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 138,
@@ -1522,7 +1664,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 139,
@@ -1532,7 +1675,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 140,
@@ -1542,7 +1686,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 141,
@@ -1552,7 +1697,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 142,
@@ -1562,7 +1708,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 143,
@@ -1572,7 +1719,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 144,
@@ -1582,7 +1730,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 145,
@@ -1592,7 +1741,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 146,
@@ -1602,7 +1752,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 147,
@@ -1612,7 +1763,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 148,
@@ -1622,7 +1774,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 149,
@@ -1632,7 +1785,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 150,
@@ -1641,7 +1795,8 @@
         "price": 239,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 151,
@@ -1650,7 +1805,8 @@
         "price": 249,
         "stock": "",
         "available": "",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 152,
@@ -1659,7 +1815,8 @@
         "price": 69,
         "stock": "",
         "available": "",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 153,
@@ -1668,7 +1825,8 @@
         "price": 549,
         "stock": "",
         "available": "",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 154,
@@ -1677,7 +1835,8 @@
         "price": 129,
         "stock": "",
         "available": "",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 155,
@@ -1686,7 +1845,8 @@
         "price": 199,
         "stock": "",
         "available": "",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 156,
@@ -1696,7 +1856,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 157,
@@ -1705,7 +1866,8 @@
         "price": 389,
         "stock": "",
         "available": "",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 158,
@@ -1714,7 +1876,8 @@
         "price": 449,
         "stock": "",
         "available": "",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 159,
@@ -1724,7 +1887,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 160,
@@ -1733,7 +1897,8 @@
         "price": 259,
         "stock": "",
         "available": "",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 161,
@@ -1742,7 +1907,8 @@
         "price": 719,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 162,
@@ -1751,7 +1917,8 @@
         "price": 109,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 163,
@@ -1760,7 +1927,8 @@
         "price": 109,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 164,
@@ -1769,7 +1937,8 @@
         "price": 369,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 165,
@@ -1778,7 +1947,8 @@
         "price": 189,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 166,
@@ -1787,7 +1957,8 @@
         "price": 109,
         "stock": "",
         "available": "",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 167,
@@ -1797,7 +1968,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 168,
@@ -1807,7 +1979,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 169,
@@ -1816,7 +1989,8 @@
         "price": 179,
         "stock": "",
         "available": "",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 170,
@@ -1825,7 +1999,8 @@
         "price": 449,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 171,
@@ -1834,7 +2009,8 @@
         "price": 949,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 172,
@@ -1852,7 +2028,8 @@
         "price": 789,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 174,
@@ -1861,7 +2038,8 @@
         "price": 1109,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 175,
@@ -1870,7 +2048,8 @@
         "price": 629,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 176,
@@ -1879,7 +2058,8 @@
         "price": 1149,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 177,
@@ -1888,7 +2068,8 @@
         "price": 789,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 178,
@@ -1897,7 +2078,8 @@
         "price": 469,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 179,
@@ -1906,7 +2088,8 @@
         "price": 139,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 180,
@@ -1915,7 +2098,8 @@
         "price": 299,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 181,
@@ -1924,7 +2108,8 @@
         "price": 539,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 182,
@@ -1933,7 +2118,8 @@
         "price": 1079,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 183,
@@ -1942,7 +2128,8 @@
         "price": 1189,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 184,
@@ -1951,7 +2138,8 @@
         "price": 679,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 185,
@@ -1960,7 +2148,8 @@
         "price": 779,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 186,
@@ -1969,7 +2158,8 @@
         "price": 849,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 187,
@@ -1978,7 +2168,8 @@
         "price": 869,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 188,
@@ -1987,7 +2178,8 @@
         "price": 379,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
+        "category": "kitchen & Dining",
+        "qty": 1
       },
       {
         "id": 189,
@@ -1996,7 +2188,8 @@
         "price": 249,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 190,
@@ -2005,7 +2198,8 @@
         "price": 129,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 191,
@@ -2014,7 +2208,8 @@
         "price": 179,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 192,
@@ -2024,7 +2219,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 193,
@@ -2034,7 +2230,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 194,
@@ -2044,7 +2241,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Bedroom",
-        "type": "Mattresses"
+        "type": "Mattresses",
+        "qty": 1
       },
       {
         "id": 195,
@@ -2053,7 +2251,8 @@
         "price": 349,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 196,
@@ -2062,7 +2261,8 @@
         "price": 469,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 197,
@@ -2071,7 +2271,8 @@
         "price": 309,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 198,
@@ -2080,7 +2281,8 @@
         "price": 139,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 199,
@@ -2089,7 +2291,8 @@
         "price": 449,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 200,
@@ -2098,7 +2301,8 @@
         "price": 689,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 201,
@@ -2107,7 +2311,8 @@
         "price": 619,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 202,
@@ -2116,7 +2321,8 @@
         "price": 309,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 203,
@@ -2125,7 +2331,8 @@
         "price": 729,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 204,
@@ -2134,7 +2341,8 @@
         "price": 569,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 205,
@@ -2143,7 +2351,8 @@
         "price": 559,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 206,
@@ -2152,7 +2361,8 @@
         "price": 449,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Bedroom"
+        "category": "Bedroom",
+        "qty": 1
       },
       {
         "id": 207,
@@ -2161,7 +2371,8 @@
         "price": 139,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 208,
@@ -2170,7 +2381,8 @@
         "price": 249,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 209,
@@ -2179,7 +2391,8 @@
         "price": 789,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 210,
@@ -2188,7 +2401,8 @@
         "price": 659,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 211,
@@ -2197,7 +2411,8 @@
         "price": 379,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 212,
@@ -2206,7 +2421,8 @@
         "price": 319,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 213,
@@ -2215,7 +2431,8 @@
         "price": 559,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 214,
@@ -2224,7 +2441,8 @@
         "price": 1049,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 215,
@@ -2233,7 +2451,8 @@
         "price": 719,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 216,
@@ -2242,7 +2461,8 @@
         "price": 329,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 217,
@@ -2251,7 +2471,8 @@
         "price": 989,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 218,
@@ -2260,7 +2481,8 @@
         "price": 369,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 219,
@@ -2269,7 +2491,8 @@
         "price": 919,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 220,
@@ -2278,7 +2501,8 @@
         "price": 919,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 221,
@@ -2287,7 +2511,8 @@
         "price": 299,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 222,
@@ -2296,7 +2521,8 @@
         "price": 1109,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 223,
@@ -2305,7 +2531,8 @@
         "price": 789,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 224,
@@ -2314,7 +2541,8 @@
         "price": 729,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 225,
@@ -2323,7 +2551,8 @@
         "price": 789,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 226,
@@ -2332,7 +2561,8 @@
         "price": 949,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 227,
@@ -2341,7 +2571,8 @@
         "price": 989,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 228,
@@ -2350,7 +2581,8 @@
         "price": 489,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 229,
@@ -2359,7 +2591,8 @@
         "price": 259,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 230,
@@ -2368,7 +2601,8 @@
         "price": 379,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 231,
@@ -2377,7 +2611,8 @@
         "price": 679,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 232,
@@ -2386,7 +2621,8 @@
         "price": 489,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 233,
@@ -2395,7 +2631,8 @@
         "price": 259,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 234,
@@ -2404,7 +2641,8 @@
         "price": 789,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 235,
@@ -2413,7 +2651,8 @@
         "price": 259,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 236,
@@ -2422,7 +2661,8 @@
         "price": 489,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 237,
@@ -2430,7 +2670,8 @@
         "title": "Robin Futon Blue Small",
         "price": 369,
         "stock": "Out of stock",
-        "available": "It will be available soon"
+        "available": "It will be available soon",
+        "qty": 1
       },
       {
         "id": 238,
@@ -2440,7 +2681,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "sofa",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       },
       {
         "id": 239,
@@ -2449,7 +2691,8 @@
         "price": 679,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 240,
@@ -2458,7 +2701,8 @@
         "price": 1189,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 241,
@@ -2467,7 +2711,8 @@
         "price": 1189,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 242,
@@ -2476,7 +2721,8 @@
         "price": 1029,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 243,
@@ -2485,7 +2731,8 @@
         "price": 1029,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 244,
@@ -2494,7 +2741,8 @@
         "price": 949,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 245,
@@ -2503,7 +2751,8 @@
         "price": 409,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 246,
@@ -2512,7 +2761,8 @@
         "price": 529,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "sofa"
+        "category": "sofa",
+        "qty": 1
       },
       {
         "id": 247,
@@ -2521,7 +2771,8 @@
         "price": 129,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 248,
@@ -2530,7 +2781,8 @@
         "price": 269,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "Baby Furniture"
+        "category": "Baby Furniture",
+        "qty": 1
       },
       {
         "id": 249,
@@ -2539,7 +2791,8 @@
         "price": 99,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 250,
@@ -2548,7 +2801,8 @@
         "price": 169,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 251,
@@ -2557,7 +2811,8 @@
         "price": 369,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 252,
@@ -2566,7 +2821,8 @@
         "price": 179,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "work from home"
+        "category": "work from home",
+        "qty": 1
       },
       {
         "id": 253,
@@ -2576,7 +2832,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 254,
@@ -2586,7 +2843,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "work from home",
-        "type": "study Tables"
+        "type": "study Tables",
+        "qty": 1
       },
       {
         "id": 255,
@@ -2596,19 +2854,9 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Bedroom",
-        "type": "Beds"
+        "type": "Beds",
+        "qty": 1
       }
     ],
-    "CartItem": [
-      {
-        "id": 35,
-        "img": "https://p.rmjo.in/moodShot/qe6gjqne-1024x512.jpg",
-        "title": "Hutch Queen Bedroom",
-        "price": 1738,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": ""
-      }
-    ]
+    "CartItem": []
   }
