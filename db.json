@@ -9,7 +9,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 2,
@@ -20,7 +21,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 3,
@@ -31,7 +33,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 4,
@@ -42,7 +45,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 5,
@@ -53,7 +57,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 6,
@@ -64,7 +69,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 7,
@@ -75,7 +81,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 8,
@@ -86,7 +93,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 9,
@@ -97,7 +105,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 10,
@@ -108,7 +117,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 11,
@@ -119,7 +129,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 12,
@@ -130,7 +141,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 13,
@@ -141,7 +153,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 14,
@@ -152,7 +165,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 15,
@@ -163,7 +177,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/appliance.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 16,
@@ -174,150 +189,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
-      },
-      {
-        "id": 17,
-        "img": "https://p.rmjo.in/moodShot/qshok0b1-1024x512.jpg",
-        "title": "Magnum Queen Master Bedroom",
-        "price": 1433,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 18,
-        "img": "https://p.rmjo.in/moodShot/ahr62bnr-1024x512.jpg",
-        "title": "Magnum Queen Basic Bedroom",
-        "price": 1147,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 19,
-        "img": "https://p.rmjo.in/moodShot/otic70rb-1024x512.jpg",
-        "title": "Aurora Queen Utility Bedroom",
-        "price": 1374,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 20,
-        "img": "https://p.rmjo.in/moodShot/3l0wpywk-1024x512.jpg",
-        "title": "Napster Queen Basic Bedroom",
-        "price": 686,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 21,
-        "img": "https://p.rmjo.in/moodShot/xu7jkjsk-1024x512.jpg",
-        "title": "Napster Queen Utility Bedroom",
-        "price": 1024,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 22,
-        "img": "https://p.rmjo.in/moodShot/g00rc38r-1024x512.jpg",
-        "title": "Poise Queen Bedroom",
-        "price": 871,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 23,
-        "img": "https://p.rmjo.in/moodShot/m0bbtgh7-1024x512.jpg",
-        "title": "Napster Single Utility Bedroom",
-        "price": 715,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 24,
-        "img": "https://p.rmjo.in/moodShot/o235d7of-1024x512.jpg",
-        "title": "Heathcliff Living Room",
-        "price": 109,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 25,
-        "img": "https://p.rmjo.in/moodShot/7vgwazx0-1024x512.jpg",
-        "title": "Living Room Basics",
-        "price": 647,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 26,
-        "img": "https://p.rmjo.in/moodShot/s5ipaesf-1024x512.jpg",
-        "title": "WFH Corner",
-        "price": 428,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 27,
-        "img": "https://p.rmjo.in/moodShot/n4zau10d-1024x512.jpg",
-        "title": "WFH Basic",
-        "price": 338,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 28,
-        "img": "https://p.rmjo.in/moodShot/ex6sj467-1024x512.jpg",
-        "title": "WFH Premium",
-        "price": 2315,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
-      },
-      {
-        "id": 29,
-        "img": "https://p.rmjo.in/moodShot/el2h0ihm-1024x512.jpg",
-        "title": "WFH Room",
-        "price": 338,
-        "cat-item--desc": "mo",
-        "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
-        "stock": "",
-        "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 30,
@@ -328,7 +201,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 31,
@@ -339,7 +213,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 32,
@@ -350,7 +225,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 33,
@@ -361,7 +237,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 34,
@@ -372,7 +249,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 35,
@@ -383,7 +261,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 36,
@@ -394,7 +273,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 37,
@@ -405,7 +285,8 @@
         "icons": "https://www.rentomojo.com/public/images/package/icons/bed.svg",
         "stock": "",
         "available": "",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 38,
@@ -416,7 +297,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 39,
@@ -427,7 +309,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 40,
@@ -438,7 +321,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 41,
@@ -449,7 +333,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 42,
@@ -460,7 +345,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 43,
@@ -471,7 +357,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 44,
@@ -482,7 +369,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 45,
@@ -493,7 +381,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 46,
@@ -504,7 +393,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 47,
@@ -515,7 +405,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 48,
@@ -526,7 +417,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 49,
@@ -537,7 +429,8 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 50,
@@ -548,154 +441,11 @@
         "icons": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       }
     ],
     "Appliances": [
-      {
-        "id": 51,
-        "img": "https://p.rmjo.in/productSquare/xev0b5yi-500x500.jpg",
-        "title": "Induction Cooktop",
-        "price": 149,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Microwaves & induction",
-        "qty": 1
-      },
-      {
-        "id": 52,
-        "img": "https://p.rmjo.in/productSquare/bwskug14-500x500.jpg",
-        "title": "Single Door Fridge (190 Litre)",
-        "price": 719,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Refrigerators & Freezers",
-        "qty": 1
-      },
-      {
-        "id": 53,
-        "img": "https://p.rmjo.in/productSquare/ue88wnov-500x500.jpg",
-        "title": "Single Door Fridge (170 Litre)",
-        "price": 659,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Refrigerators & Freezers",
-        "qty": 1
-      },
-      {
-        "id": 54,
-        "img": "https://p.rmjo.in/productSquare/caskfrhd-500x500.jpg",
-        "title": "Double Door Fridge (240 Litre)",
-        "price": 1049,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Refrigerators & Freezers",
-        "qty": 1
-      },
-      {
-        "id": 55,
-        "img": "https://p.rmjo.in/productSquare/x0to9y4x-500x500.jpg",
-        "title": "Mini Fridge",
-        "price": 449,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Refrigerators & Freezers",
-        "qty": 1
-      },
-      {
-        "id": 56,
-        "img": "https://p.rmjo.in/productSquare/ry27prsa-500x500.jpg",
-        "title": "Single Door Fridge (210 Litre)",
-        "price": 809,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Refrigerators & Freezers",
-        "qty": 1
-      },
-      {
-        "id": 57,
-        "img": "https://p.rmjo.in/productSquare/l6xann5r-500x500.jpg",
-        "title": "Air Conditioner 1 Ton",
-        "price": 1859,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Air Conditioners",
-        "qty": 1
-      },
-      {
-        "id": 58,
-        "img": "https://p.rmjo.in/productSquare/8m9isa2d-500x500.jpg",
-        "title": "Inverter Air Conditioner 1 Ton",
-        "price": 1939,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Air Conditioners",
-        "qty": 1
-      },
-      {
-        "id": 59,
-        "img": "https://p.rmjo.in/productSquare/05gpq2h8-500x500.jpg",
-        "title": "Air Conditioner 1.5 Ton",
-        "price": 2269,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Air Conditioners",
-        "qty": 1
-      },
-      {
-        "id": 60,
-        "img": "https://p.rmjo.in/productSquare/p556oepz-500x500.jpg",
-        "title": "Air Purifier",
-        "price": 599,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Water & Air Purifiers",
-        "qty": 1
-      },
-      {
-        "id": 61,
-        "img": "https://p.rmjo.in/productSquare/zufkl87m-500x500.jpg",
-        "title": "Microwave Solo 20L",
-        "price": 299,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Microwaves & induction",
-        "qty": 1
-      },
-      {
-        "id": 62,
-        "img": "https://p.rmjo.in/productSquare/605n5qi4-500x500.jpg",
-        "title": "Smart LED TV - 32\"",
-        "price": 849,
-        "time": "5 days",
-        "Delivery": "https://www.rentomojo.com/public/images/fast-delivery/fast-delivery.svg",
-        "stock": "",
-        "available": "",
-        "category": "Televisions",
-        "qty": 1
-      },
       {
         "id": 63,
         "img": "https://p.rmjo.in/productSquare/eztgdt5u-500x500.jpg",
@@ -706,7 +456,8 @@
         "stock": "",
         "available": "",
         "category": "Televisions",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 64,
@@ -718,7 +469,8 @@
         "stock": "",
         "available": "",
         "category": "Televisions",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 65,
@@ -730,7 +482,8 @@
         "stock": "",
         "available": "",
         "category": "Televisions",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 66,
@@ -742,7 +495,8 @@
         "stock": "",
         "available": "",
         "category": "Televisions",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 67,
@@ -754,7 +508,8 @@
         "stock": "",
         "available": "",
         "category": "Water & Air Purifiers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 68,
@@ -766,7 +521,8 @@
         "stock": "",
         "available": "",
         "category": "Dishwashers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 69,
@@ -778,7 +534,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Refrigerators & Freezers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 70,
@@ -790,7 +547,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Refrigerators & Freezers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 71,
@@ -802,7 +560,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Air Coolers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 72,
@@ -814,7 +573,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Air Coolers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 73,
@@ -826,7 +586,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Air Coolers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 74,
@@ -838,7 +599,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Air Conditioners",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 75,
@@ -850,7 +612,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Washing Machines",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 76,
@@ -862,7 +625,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Washing Machines",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 77,
@@ -874,7 +638,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Washing Machines",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 78,
@@ -886,7 +651,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Air Coolers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 79,
@@ -898,7 +664,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Microwaves & induction",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 80,
@@ -910,7 +677,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Televisions",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 81,
@@ -922,7 +690,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Televisions",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 82,
@@ -934,7 +703,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Water & Air Purifiers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 83,
@@ -946,7 +716,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Water & Air Purifiers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       }
     ],
     "Electronics": [
@@ -960,7 +731,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 85,
@@ -972,7 +744,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 86,
@@ -984,7 +757,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 87,
@@ -996,7 +770,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 88,
@@ -1008,7 +783,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 89,
@@ -1020,7 +796,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 90,
@@ -1032,7 +809,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 91,
@@ -1044,7 +822,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 92,
@@ -1056,7 +835,8 @@
         "stock": "",
         "available": "",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 93,
@@ -1068,7 +848,8 @@
         "stock": "",
         "available": "",
         "category": "Smart Devices",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 94,
@@ -1080,7 +861,8 @@
         "stock": "",
         "available": "",
         "category": "Tablets",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 95,
@@ -1092,7 +874,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Laptops",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 96,
@@ -1104,7 +887,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 97,
@@ -1116,7 +900,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 98,
@@ -1127,7 +912,8 @@
         "Delivery": "",
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 99,
@@ -1139,7 +925,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 100,
@@ -1151,7 +938,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 101,
@@ -1163,7 +951,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 102,
@@ -1175,7 +964,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 103,
@@ -1187,7 +977,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 104,
@@ -1199,7 +990,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 105,
@@ -1211,7 +1003,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 106,
@@ -1223,7 +1016,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 107,
@@ -1235,7 +1029,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 108,
@@ -1247,7 +1042,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 109,
@@ -1259,7 +1055,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 110,
@@ -1271,7 +1068,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 111,
@@ -1283,7 +1081,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 112,
@@ -1295,7 +1094,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 113,
@@ -1307,7 +1107,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 114,
@@ -1319,7 +1120,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 115,
@@ -1331,7 +1133,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 116,
@@ -1343,7 +1146,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 117,
@@ -1355,7 +1159,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 118,
@@ -1367,7 +1172,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 119,
@@ -1379,7 +1185,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Smartphones",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 256,
@@ -1391,7 +1198,8 @@
         "stock": "",
         "available": "",
         "category": "Gaming Consoles",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 257,
@@ -1403,7 +1211,8 @@
         "stock": "",
         "available": "",
         "category": "Gaming Consoles",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 258,
@@ -1415,7 +1224,8 @@
         "stock": "",
         "available": "",
         "category": "Gaming Consoles",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 259,
@@ -1427,7 +1237,8 @@
         "stock": "",
         "available": "",
         "category": "Gaming Consoles",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 260,
@@ -1439,7 +1250,8 @@
         "stock": "",
         "available": "",
         "category": "Gaming Consoles",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       }
     ],
     "Fitness": [
@@ -1453,7 +1265,8 @@
         "stock": "",
         "available": "",
         "category": "Cross Trainers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 121,
@@ -1465,7 +1278,8 @@
         "stock": "",
         "available": "",
         "category": "Treadmills",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 122,
@@ -1477,7 +1291,8 @@
         "stock": "",
         "available": "",
         "category": "Treadmills",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 123,
@@ -1489,7 +1304,8 @@
         "stock": "",
         "available": "",
         "category": "Treadmills",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 124,
@@ -1501,7 +1317,8 @@
         "stock": "",
         "available": "",
         "category": "Massagers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 125,
@@ -1513,7 +1330,8 @@
         "stock": "",
         "available": "",
         "category": "Massagers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 126,
@@ -1525,7 +1343,8 @@
         "stock": "",
         "available": "",
         "category": "Cross Trainers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 127,
@@ -1537,7 +1356,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Treadmills",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 128,
@@ -1549,7 +1369,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Exercise Bikes",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 129,
@@ -1561,7 +1382,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Exercise Bikes",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 130,
@@ -1573,7 +1395,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Treadmills",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 131,
@@ -1585,7 +1408,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Treadmills",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 132,
@@ -1597,7 +1421,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "Cross Trainers",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       }
     ],
     "Furniture": [
@@ -1610,7 +1435,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 134,
@@ -1621,7 +1447,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 135,
@@ -1632,7 +1459,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 136,
@@ -1643,7 +1471,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 137,
@@ -1654,7 +1483,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 138,
@@ -1665,7 +1495,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 139,
@@ -1676,7 +1507,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 140,
@@ -1687,7 +1519,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 141,
@@ -1698,107 +1531,9 @@
         "available": "",
         "category": "work from home",
         "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 142,
-        "img": "https://p.rmjo.in/productSquare/hdnqmf56-500x500.jpg",
-        "title": "Stuart Study Table",
-        "price": 149,
-        "stock": "",
-        "available": "",
-        "category": "work from home",
-        "type": "study Tables",
-        "qty": 1
-      },
-      {
-        "id": 143,
-        "img": "https://p.rmjo.in/productSquare/d25jc9wi-500x500.jpg",
-        "title": "Poise Study Table",
-        "price": 229,
-        "stock": "",
-        "available": "",
-        "category": "work from home",
-        "type": "study Tables",
-        "qty": 1
-      },
-      {
-        "id": 144,
-        "img": "https://p.rmjo.in/productSquare/53rmy7yr-500x500.jpg",
-        "title": "Napster Metal Queen Bed (6x5)",
-        "price": 319,
-        "stock": "",
-        "available": "",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 145,
-        "img": "https://p.rmjo.in/productSquare/m9qgitpv-500x500.jpg",
-        "title": "Aurora Wooden Queen Bed (6x5)",
-        "price": 539,
-        "stock": "",
-        "available": "",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 146,
-        "img": "https://p.rmjo.in/productSquare/16ctgjip-500x500.jpg",
-        "title": "Kipper Wooden Queen Bed (6x5)",
-        "price": 809,
-        "stock": "",
-        "available": "",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 147,
-        "img": "https://p.rmjo.in/productSquare/70rj36m0-500x500.jpg",
-        "title": "Poise Wooden Queen Bed (6x5)",
-        "price": 549,
-        "stock": "",
-        "available": "",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 148,
-        "img": "https://p.rmjo.in/productSquare/6gf1ht1e-500x500.jpg",
-        "title": "Kipper Wooden Single Bed (6x3)",
-        "price": 609,
-        "stock": "",
-        "available": "",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 149,
-        "img": "https://p.rmjo.in/productSquare/mhbh0ddk-500x500.jpg",
-        "title": "Poise Wooden King Bed (6x6)",
-        "price": 669,
-        "stock": "",
-        "available": "",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 150,
-        "img": "https://p.rmjo.in/productSquare/t9uurxip-500x500.jpg",
-        "title": "Pixar TV Unit",
-        "price": 239,
-        "stock": "",
-        "available": "",
-        "category": "Baby Furniture",
-        "qty": 1
-      },
-      {
+        "qty": 1,
+        "deposit" : 500
+      },{
         "id": 151,
         "img": "https://p.rmjo.in/productSquare/sphippfu-500x500.jpg",
         "title": "Latte Wooden Coffee Table",
@@ -1806,7 +1541,8 @@
         "stock": "",
         "available": "",
         "category": "kitchen & Dining",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 152,
@@ -1816,7 +1552,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 153,
@@ -1826,7 +1563,8 @@
         "stock": "",
         "available": "",
         "category": "kitchen & Dining",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 154,
@@ -1836,7 +1574,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 155,
@@ -1846,7 +1585,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 156,
@@ -1857,7 +1597,8 @@
         "available": "",
         "category": "work from home",
         "type": "study Tables",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 157,
@@ -1867,7 +1608,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 158,
@@ -1877,7 +1619,8 @@
         "stock": "",
         "available": "",
         "category": "Bedroom",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 159,
@@ -1888,7 +1631,8 @@
         "available": "",
         "category": "work from home",
         "type": "study Tables",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 160,
@@ -1898,7 +1642,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 161,
@@ -1908,7 +1653,8 @@
         "stock": "",
         "available": "",
         "category": "Baby Furniture",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 162,
@@ -1918,7 +1664,8 @@
         "stock": "",
         "available": "",
         "category": "Baby Furniture",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 163,
@@ -1928,7 +1675,8 @@
         "stock": "",
         "available": "",
         "category": "Baby Furniture",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 164,
@@ -1938,7 +1686,8 @@
         "stock": "",
         "available": "",
         "category": "Baby Furniture",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 165,
@@ -1948,7 +1697,8 @@
         "stock": "",
         "available": "",
         "category": "Baby Furniture",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 166,
@@ -1958,7 +1708,8 @@
         "stock": "",
         "available": "",
         "category": "Baby Furniture",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 167,
@@ -1969,7 +1720,8 @@
         "available": "",
         "category": "Bedroom",
         "type": "Mattresses",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 168,
@@ -1980,7 +1732,8 @@
         "available": "",
         "category": "work from home",
         "type": "study Tables",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 169,
@@ -1990,7 +1743,8 @@
         "stock": "",
         "available": "",
         "category": "work from home",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 170,
@@ -2000,7 +1754,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "kitchen & Dining",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 171,
@@ -2010,7 +1765,8 @@
         "stock": "Out of stock",
         "available": "It will be available soon",
         "category": "kitchen & Dining",
-        "qty": 1
+        "qty": 1,
+        "deposit" : 500
       },
       {
         "id": 172,
@@ -2019,843 +1775,9 @@
         "price": 689,
         "stock": "Out of stock",
         "available": "It will be available soon",
-        "category": "kitchen & Dining"
-      },
-      {
-        "id": 173,
-        "img": "https://p.rmjo.in/productSquare/0ahsljnf-500x500.jpg",
-        "title": "Poise 4-Seater Dining Table & Chairs",
-        "price": 789,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
         "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 174,
-        "img": "https://p.rmjo.in/productSquare/jagaq6ov-500x500.jpg",
-        "title": "Poise 6-Seater Dining Table & Chairs",
-        "price": 1109,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 175,
-        "img": "https://p.rmjo.in/productSquare/9dfflsa6-500x500.jpg",
-        "title": "Caramel 4-Seater Coffee Table (Blue)",
-        "price": 629,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 176,
-        "img": "https://p.rmjo.in/productSquare/qabfne17-500x500.jpg",
-        "title": "Gordon 6-Seater Dining Table & Chairs",
-        "price": 1149,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 177,
-        "img": "https://p.rmjo.in/productSquare/3viuyvz5-500x500.jpg",
-        "title": "Gordon 4-Seater Dining Table & Chairs",
-        "price": 789,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 178,
-        "img": "https://p.rmjo.in/productSquare/jqccn9bx-500x500.jpg",
-        "title": "Heston 4-Seater Dining Table & Chairs",
-        "price": 469,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 179,
-        "img": "https://p.rmjo.in/productSquare/xm6f1g5x-500x500.jpg",
-        "title": "IKEA Gladom & Adde Outdoor Table & Chairs",
-        "price": 139,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 180,
-        "img": "https://p.rmjo.in/productSquare/jr2cq9mj-500x500.jpg",
-        "title": "IKEA Melltorp & Adde Dining Set 4-Seater (Grey)",
-        "price": 299,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 181,
-        "img": "https://p.rmjo.in/productSquare/bhpxawks-500x500.jpg",
-        "title": "Poise 3 Seater Dining Table & Chairs",
-        "price": 539,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 182,
-        "img": "https://p.rmjo.in/productSquare/e1c7w1zv-500x500.jpg",
-        "title": "Marco 6-Seater Dining Table & Chairs",
-        "price": 1079,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 183,
-        "img": "https://p.rmjo.in/productSquare/7twjgzvw-500x500.jpg",
-        "title": "Alton 6-Seater Dining Table & Chairs",
-        "price": 1189,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 184,
-        "img": "https://p.rmjo.in/productSquare/d0z0usjn-500x500.jpg",
-        "title": "Heston 6-Seater Dining Table & Chairs",
-        "price": 679,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 185,
-        "img": "https://p.rmjo.in/productSquare/dup85lff-500x500.jpg",
-        "title": "Marco 4-Seater Dining Table & Chairs",
-        "price": 779,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 186,
-        "img": "https://p.rmjo.in/productSquare/jotwg0bl-500x500.jpg",
-        "title": "Alton 4-Seater Dining Table & Chairs",
-        "price": 849,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 187,
-        "img": "https://p.rmjo.in/productSquare/0ipckdo0-500x500.jpg",
-        "title": "Tyler 6-Seater Dining Table & Chairs",
-        "price": 869,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 188,
-        "img": "https://p.rmjo.in/productSquare/t2agpcla-500x500.jpg",
-        "title": "Grans 4-Seater Dining Set by IKEA",
-        "price": 379,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "kitchen & Dining",
-        "qty": 1
-      },
-      {
-        "id": 189,
-        "img": "https://p.rmjo.in/productSquare/24oxliut-500x500.jpg",
-        "title": "IKEA Tarno Outdoor Table & Chairs",
-        "price": 249,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 190,
-        "img": "https://p.rmjo.in/productSquare/mdvcclnl-500x500.jpg",
-        "title": "Melltorp & Adde Dining Table (White)",
-        "price": 129,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 191,
-        "img": "https://p.rmjo.in/productSquare/ve2honhg-500x500.jpg",
-        "title": "Single Coir and Foam Mattress (6x3)",
-        "price": 179,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 192,
-        "img": "https://p.rmjo.in/productSquare/mwim0g5s-500x500.jpg",
-        "title": "Queen Ortho Memory Foam Mattress by Wakefit (6x5)",
-        "price": 689,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "type": "Mattresses",
-        "qty": 1
-      },
-      {
-        "id": 193,
-        "img": "https://p.rmjo.in/productSquare/qo9caib1-500x500.jpg",
-        "title": "Single XL Ortho Memory Foam Mattress by Wakefit",
-        "price": 309,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "type": "Mattresses",
-        "qty": 1
-      },
-      {
-        "id": 194,
-        "img": "https://p.rmjo.in/productSquare/1w1dvzoc-500x500.jpg",
-        "title": "Compact Queen Coir & Foam Mattress (6x4)",
-        "price": 229,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "type": "Mattresses",
-        "qty": 1
-      },
-      {
-        "id": 195,
-        "img": "https://p.rmjo.in/productSquare/ls2ps8ef-500x500.jpg",
-        "title": "Single Ortho Memory Foam Mattress by Wakefit (6x3)",
-        "price": 349,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 196,
-        "img": "https://p.rmjo.in/productSquare/6nciwqte-500x500.jpg",
-        "title": "Queen Ortho Memory Foam Mattress (6X5)",
-        "price": 469,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 197,
-        "img": "https://p.rmjo.in/productSquare/56n2d0s0-500x500.jpg",
-        "title": "Single XL Ortho Memory Foam Mattress (6.6X3)",
-        "price": 309,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 198,
-        "img": "https://p.rmjo.in/productSquare/cwg4oq67-500x500.jpg",
-        "title": "Compact Queen Foam Mattress (6x4)",
-        "price": 139,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 199,
-        "img": "https://p.rmjo.in/productSquare/4heq9qdi-500x500.jpg",
-        "title": "Single Ortho Pocket Spring Mattress (6X3)",
-        "price": 449,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 200,
-        "img": "https://p.rmjo.in/productSquare/o72cwetc-500x500.jpg",
-        "title": "King Ortho Memory Foam Mattress by Wakefit (6.6x6)",
-        "price": 689,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 201,
-        "img": "https://p.rmjo.in/productSquare/7we7cgav-500x500.jpg",
-        "title": "Queen Ortho Pocket Spring Mattress (6x5)",
-        "price": 619,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 202,
-        "img": "https://p.rmjo.in/productSquare/rgxgvb2t-500x500.jpg",
-        "title": "Single Ortho Memory Foam Mattress (6X3)",
-        "price": 309,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 203,
-        "img": "https://p.rmjo.in/productSquare/r62qhj5g-500x500.jpg",
-        "title": "King Ortho Pocket Spring Mattress (6.6X6)",
-        "price": 729,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 204,
-        "img": "https://p.rmjo.in/productSquare/cpvebt03-500x500.jpg",
-        "title": "Set of 2 Single XL Ortho Mattress by Wakefit (6.6x3)",
-        "price": 569,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 205,
-        "img": "https://p.rmjo.in/productSquare/k337lbei-500x500.jpg",
-        "title": "King Ortho Memory Foam Mattress (6.6X6)",
-        "price": 559,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 206,
-        "img": "https://p.rmjo.in/productSquare/637x2avc-500x500.jpg",
-        "title": "Single XL Ortho Pocket Spring Mattress (6.6X3)",
-        "price": 449,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "qty": 1
-      },
-      {
-        "id": 207,
-        "img": "https://p.rmjo.in/productSquare/uggf02pw-500x500.jpg",
-        "title": "IKEA Gladom & Adde Outdoor Table & Chairs (White)",
-        "price": 139,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 208,
-        "img": "https://p.rmjo.in/productSquare/s0yo6ill-500x500.jpg",
-        "title": "IKEA Mammut Table & Chair Set",
-        "price": 249,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 209,
-        "img": "https://p.rmjo.in/productSquare/mf3434ld-500x500.jpg",
-        "title": "Felix 3-Seater Fabric Sofa (Blue)",
-        "price": 789,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 210,
-        "img": "https://p.rmjo.in/productSquare/oly8kym0-500x500.jpg",
-        "title": "Rex 3-Seater Leather Sofa (Black)",
-        "price": 659,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 211,
-        "img": "https://p.rmjo.in/productSquare/f1cz08ey-500x500.jpg",
-        "title": "Felix 1-Seater Fabric Sofa (Blue)",
-        "price": 379,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 212,
-        "img": "https://p.rmjo.in/productSquare/tqddqxw9-500x500.jpg",
-        "title": "Rex 1-Seater Leather Sofa (Black)",
-        "price": 319,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 213,
-        "img": "https://p.rmjo.in/productSquare/p2dm6gz4-500x500.jpg",
-        "title": "Oliver 3-Seater Fabric Sofa (Blue)",
-        "price": 559,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 214,
-        "img": "https://p.rmjo.in/productSquare/0thxiix7-500x500.jpg",
-        "title": "Cheshire Fabric Sofa cum Bed (Green)",
-        "price": 1049,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 215,
-        "img": "https://p.rmjo.in/productSquare/np0m2wn5-500x500.jpg",
-        "title": "Casper 3-Seater Fabric Sofa (Grey)",
-        "price": 719,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 216,
-        "img": "https://p.rmjo.in/productSquare/fysdv4y0-500x500.jpg",
-        "title": "Oliver 2-Seater Fabric Sofa (Blue)",
-        "price": 329,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 217,
-        "img": "https://p.rmjo.in/productSquare/sdh4eizx-500x500.jpg",
-        "title": "Harvey Fabric Sofa cum Bed (Blue)",
-        "price": 989,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 218,
-        "img": "https://p.rmjo.in/productSquare/q7t7qknb-500x500.jpg",
-        "title": "Robin Futon Red Small",
-        "price": 369,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 219,
-        "img": "https://p.rmjo.in/productSquare/6503fnka-500x500.jpg",
-        "title": "Aqua 3-Seater Fabric Sofa (Blue)",
-        "price": 919,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 220,
-        "img": "https://p.rmjo.in/productSquare/eavvxj71-500x500.jpg",
-        "title": "Leo 3-Seater Fabric Sofa (Blue)",
-        "price": 919,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 221,
-        "img": "https://p.rmjo.in/productSquare/j60vpqyn-500x500.jpg",
-        "title": "Casper 1-Seater Fabric Sofa(Grey)",
-        "price": 299,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 222,
-        "img": "https://p.rmjo.in/productSquare/twmc1xds-500x500.jpg",
-        "title": "Casper L-Shaped Fabric Sofa (Grey)",
-        "price": 1109,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 223,
-        "img": "https://p.rmjo.in/productSquare/xkl4qj2y-500x500.jpg",
-        "title": "Leo 3-Seater Fabric Sofa (Brown)",
-        "price": 789,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 224,
-        "img": "https://p.rmjo.in/productSquare/yrh5ksqn-500x500.jpg",
-        "title": "Regina 3-Seater Fabric Sofa (White)",
-        "price": 729,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 225,
-        "img": "https://p.rmjo.in/productSquare/cgabmlip-500x500.jpg",
-        "title": "Garfield 3-Seater Fabric Sofa (Grey)",
-        "price": 789,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 226,
-        "img": "https://p.rmjo.in/productSquare/0tplg5eo-500x500.jpg",
-        "title": "Brooklyn 3-Seater Fabric Sofa (Burgundy)",
-        "price": 949,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 227,
-        "img": "https://p.rmjo.in/productSquare/28yjmaet-500x500.jpg",
-        "title": "Moonstone 3-Seater Fabric Sofa (Grey)",
-        "price": 989,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 228,
-        "img": "https://p.rmjo.in/productSquare/wps4gc9c-500x500.jpg",
-        "title": "Robin Futon Blue Large",
-        "price": 489,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 229,
-        "img": "https://p.rmjo.in/productSquare/dc1q45ao-500x500.jpg",
-        "title": "Brooklyn 1-Seater Fabric Sofa (Blue)",
-        "price": 259,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 230,
-        "img": "https://p.rmjo.in/productSquare/yiruykmu-500x500.jpg",
-        "title": "Garfield 1-Seater Fabric Sofa (Grey)",
-        "price": 379,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 231,
-        "img": "https://p.rmjo.in/productSquare/640rbs0o-500x500.jpg",
-        "title": "Pearl 3-Seater Fabric Sofa (Grey)",
-        "price": 679,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 232,
-        "img": "https://p.rmjo.in/productSquare/btti9psg-500x500.jpg",
-        "title": "Robin Futon Red Large",
-        "price": 489,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 233,
-        "img": "https://p.rmjo.in/productSquare/75t9w0wy-500x500.jpg",
-        "title": "Brooklyn 1-Seater Fabric Sofa (Burgundy)",
-        "price": 259,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 234,
-        "img": "https://p.rmjo.in/productSquare/40zhzwlu-500x500.jpg",
-        "title": "Leo 3-Seater Fabric Sofa (Wine Grey)",
-        "price": 789,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 235,
-        "img": "https://p.rmjo.in/productSquare/0qd53kpo-500x500.jpg",
-        "title": "Velma 1-Seater Fabric Sofa (Teal)",
-        "price": 259,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 236,
-        "img": "https://p.rmjo.in/productSquare/i0bkfiaq-500x500.jpg",
-        "title": "Velma 3-Seater Fabric Sofa (Teal)",
-        "price": 489,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 237,
-        "img": "https://p.rmjo.in/productSquare/nebda0pf-500x500.jpg",
-        "title": "Robin Futon Blue Small",
-        "price": 369,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "qty": 1
-      },
-      {
-        "id": 238,
-        "img": "https://p.rmjo.in/productSquare/9lx10mln-500x500.jpg",
-        "title": "Parker Fabric Sofa Cum Bed",
-        "price": 989,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "type": "Beds",
-        "qty": 1
-      },
-      {
-        "id": 239,
-        "img": "https://p.rmjo.in/productSquare/z4gw8n0i-500x500.jpg",
-        "title": "Regina 3-Seater Fabric Sofa (Green)",
-        "price": 679,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 240,
-        "img": "https://p.rmjo.in/productSquare/lfg6bk2a-500x500.jpg",
-        "title": "Brooklyn L-Shaped Fabric Sofa (Burgundy",
-        "price": 1189,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 241,
-        "img": "https://p.rmjo.in/productSquare/sc4mwkso-500x500.jpg",
-        "title": "Brooklyn L-Shaped Fabric Sofa (Blue)",
-        "price": 1189,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 242,
-        "img": "https://p.rmjo.in/productSquare/tcmflk16-500x500.jpg",
-        "title": "Roma 3-Seater Fabric Sofa (Dark Blue)",
-        "price": 1029,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 243,
-        "img": "https://p.rmjo.in/productSquare/h1a0v4fe-500x500.jpg",
-        "title": "Roma 3-Seater Fabric Sofa (Teal Green)",
-        "price": 1029,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 244,
-        "img": "https://p.rmjo.in/productSquare/5nbmarso-500x500.jpg",
-        "title": "Brooklyn 3-Seater Fabric Sofa (Blue)",
-        "price": 949,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 245,
-        "img": "https://p.rmjo.in/productSquare/nsjovuf5-500x500.jpg",
-        "title": "Oliver 2-Seater Fabric Sofa (White)",
-        "price": 409,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 246,
-        "img": "https://p.rmjo.in/productSquare/s2djad5r-500x500.jpg",
-        "title": "Oliver 3-Seater Fabric Sofa (White)",
-        "price": 529,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "sofa",
-        "qty": 1
-      },
-      {
-        "id": 247,
-        "img": "https://p.rmjo.in/productSquare/9kxg1c3a-500x500.jpg",
-        "title": "Exec Workstation",
-        "price": 129,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Baby Furniture",
-        "qty": 1
-      },
-      {
-        "id": 248,
-        "img": "https://p.rmjo.in/productSquare/af91iesu-500x500.jpg",
-        "title": "Mackapar bench with Storage",
-        "price": 269,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Baby Furniture",
-        "qty": 1
-      },
-      {
-        "id": 249,
-        "img": "https://p.rmjo.in/productSquare/bytomn61-500x500.jpg",
-        "title": "Howard Study Table",
-        "price": 99,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 250,
-        "img": "https://p.rmjo.in/productSquare/ue68ury7-500x500.jpg",
-        "title": "Sheldon Study Table",
-        "price": 169,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 251,
-        "img": "https://p.rmjo.in/productSquare/1eoam6o5-500x500.jpg",
-        "title": "Leonard Metal Study Table",
-        "price": 369,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 252,
-        "img": "https://p.rmjo.in/productSquare/k8bt1nao-500x500.jpg",
-        "title": "Emily Metal Study Table White",
-        "price": 179,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "qty": 1
-      },
-      {
-        "id": 253,
-        "img": "https://p.rmjo.in/productSquare/p4sjk438-500x500.jpg",
-        "title": "Vittsjo Laptop Table",
-        "price": 149,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "type": "study Tables",
-        "qty": 1
-      },
-      {
-        "id": 254,
-        "img": "https://p.rmjo.in/productSquare/uonj4p80-500x500.jpg",
-        "title": "Klismos Wooden Study Table",
-        "price": 419,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "work from home",
-        "type": "study Tables",
-        "qty": 1
-      },
-      {
-        "id": 255,
-        "img": "https://p.rmjo.in/productSquare/17kamdeu-500x500.jpg",
-        "title": "Napster Metal Single Bed (6x3)",
-        "price": 249,
-        "stock": "Out of stock",
-        "available": "It will be available soon",
-        "category": "Bedroom",
-        "type": "Beds",
-        "qty": 1
+        "qty" : 1,
+        "deposit" : 500
       }
     ],
     "CartItem": []
